@@ -9,6 +9,7 @@ function App() {
     <>
       <div className='xl:h-[100vh] flex justify-center '>
         <div className='xl:w-11/12 text-center '>
+          <button className='absolute top-5 right-10 transform hover:rotate-180 transition-transform duration-500 text-2xl font-mono' >X</button>
 
         <h1 className=' xl:mb-10 text-sm font-thin font-sans xl:text-4xl'>Epic Games : An American video game and software developer and publisher based in Cary, North Carolina.</h1>
         <img className=' xl:w-full  mt-5' src="src/assets/img.png" alt="fortnite" />
